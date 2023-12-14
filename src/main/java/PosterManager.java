@@ -1,11 +1,11 @@
-public class posterManager {
+public class PosterManager {
     private int limit;
 
-    public posterManager() {
+    public PosterManager() {
         this.limit = 5;
     }
 
-    public posterManager(int limit) {
+    public PosterManager(int limit) {
         this.limit = limit;
     }
 
